@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/analisis-colombia/static/css/main.e18e4452.css",
+    "main.js": "/analisis-colombia/static/js/main.ff04d4cb.js",
+    "static/js/453.06d7f5bc.chunk.js": "/analisis-colombia/static/js/453.06d7f5bc.chunk.js",
+    "index.html": "/analisis-colombia/index.html",
+    "main.e18e4452.css.map": "/analisis-colombia/static/css/main.e18e4452.css.map",
+    "main.ff04d4cb.js.map": "/analisis-colombia/static/js/main.ff04d4cb.js.map",
+    "453.06d7f5bc.chunk.js.map": "/analisis-colombia/static/js/453.06d7f5bc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e18e4452.css",
+    "static/js/main.ff04d4cb.js"
+  ]
+}
